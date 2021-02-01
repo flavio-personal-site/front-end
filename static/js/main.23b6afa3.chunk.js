@@ -1,0 +1,2 @@
+(this["webpackJsonpflavio-site"]=this["webpackJsonpflavio-site"]||[]).push([[0],{9:function(e,t,s){"use strict";s.r(t);var c=s(0),i=s(1),n=s.n(i),r=s(3);var a=function(){return Object(c.jsx)("div",{className:"App",children:Object(c.jsx)("p",{children:"meu site"})})};s.n(r).a.render(Object(c.jsx)(n.a.StrictMode,{children:Object(c.jsx)(a,{})}),document.getElementById("root"))}},[[9,1,2]]]);
+//# sourceMappingURL=main.23b6afa3.chunk.js.map
