@@ -1,0 +1,10 @@
+#bio a {
+  font-size: 14px;
+  font-weight: 600;
+  text-decoration: none;
+  color: #267cb9;
+}
+
+#bio a:hover {
+  color: #1e6394;
+}

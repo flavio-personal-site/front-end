@@ -1,0 +1,13 @@
+#divider {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 30px 0;
+  width: 100%;
+}
+
+#divider span{
+  height: 1px;
+  background-color: rgba(140, 140, 140, 0.316);
+  width: 100%;
+}
