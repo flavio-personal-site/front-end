@@ -4,10 +4,11 @@ import Content from './components/Content';
 import Menu from './components/Menu';
 
 const App = () => {
-  return <>
-    <Menu />
-    <Content />
-  </>
-}
+  return (
+    <div className="container">
+      <Menu />
+      <Content />
+    </div>
+)}
 
 export default App;

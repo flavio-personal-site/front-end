@@ -1,0 +1,43 @@
+.menu-container {
+  width: 270px;
+}
+
+.menu-container h1 {
+  font-size: 28px;
+  color: #333;
+}
+
+.menu-container p {
+  margin: 0 0 20px;
+  color: #727272;
+  font-weight: 400;
+  font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.menu-container .divider {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 20px 0;
+  width: 100%;
+}
+
+.menu-container .divider span{
+  height: 1px;
+  background-color: rgba(140, 140, 140, 0.316);
+  width: 100%;
+}
+
+.menu-container .links {
+  display: flex;
+  flex-direction: column;
+}
+
+.menu-container .links a {
+  color: #267cb9;
+  text-decoration: none;
+  margin: 0 0 10px;
+}
+
+.menu-container .links a:hover {
+  color: #1e6394;
+}
