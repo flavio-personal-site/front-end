@@ -14,7 +14,7 @@ const Menu = () => {
         <a href="./#contact2">Learning</a>
         <a href="#">Policy Repository</a>
         <a href="#">Policy Work</a>
-        <a href="#">Publications</a>
+        <a href="./#publications">Publications</a>
         <a href="#">Working Papers</a>
         <a href="#">Work in Progress</a>
       </div>

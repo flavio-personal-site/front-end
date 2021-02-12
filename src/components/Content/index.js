@@ -2,8 +2,9 @@ import React from 'react';
 import Bio from './Bio';
 import Contact from './Contact';
 import Divider from '../common/Divider';
+import WorkingPapers from './WorkingPapers';
+import Publications from './Publications';
 import './styles.css';
-import Contact2 from './PolicyRepository';
 
 const Content = () => {
   return (
@@ -12,6 +13,9 @@ const Content = () => {
       <Divider />
       <Contact />
       <Divider />
+      <WorkingPapers />
+      <Divider />
+      <Publications />
     </div>
   )
 }

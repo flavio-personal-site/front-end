@@ -1,0 +1,10 @@
+#working-papers a {
+  text-transform: none;
+  color: #267cb9;
+  cursor: pointer; 
+}
+
+#working-papers p span{
+  font-weight: bold;
+  color: black;
+}
