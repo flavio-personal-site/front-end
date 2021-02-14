@@ -1,0 +1,28 @@
+#publications a {
+    text-transform: none;
+    color: #267cb9;
+    text-decoration: none;
+    cursor: pointer; 
+  }
+  
+  
+  #publications p span {
+    font-weight: bold;
+    color: black;
+  }
+
+  
+  #publications a span {
+    font-weight: bold;
+    color: #267cb9;
+    font-weight: 600;
+    font-size: 16px;
+  }
+
+
+  #publications div p {
+    font-style: italic;
+    color: #727272;
+  }
+
+  

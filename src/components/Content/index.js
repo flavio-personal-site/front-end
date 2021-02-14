@@ -3,8 +3,11 @@ import Bio from './Bio';
 import Contact from './Contact';
 import Divider from '../common/Divider';
 import WorkingPapers from './WorkingPapers';
-import Publications from './Publications';
 import WorkInProgress from './WorkInProgress';
+import Publications from './Publications';
+import Learning from './WorkInProgress';
+
+
 import './styles.css';
 
 const Content = () => {

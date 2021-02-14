@@ -1,6 +1,7 @@
 .menu-container {
   width: 250px;
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  flex-direction: column;
 }
 
 .menu-container h1 {
@@ -14,7 +15,6 @@
   margin: 0 0 60px;
   color: #727272;
   font-weight: 400;
-  font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
 .menu-container .links {
@@ -30,4 +30,10 @@
 
 .menu-container .links a:hover {
   color: #1e6394;
+}
+
+.menu-container img {
+  width: 100%;
+  height: auto;
+  margin-bottom: 40px;
 }
