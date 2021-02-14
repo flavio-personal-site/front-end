@@ -6,18 +6,16 @@ const Menu = () => {
   return (
     <div className="menu-container">
       <h1>Flavio Riva</h1>
-      <p>Doctoral Candidate, Fundação Getulio Vargas</p>
-      <Divider />
+      <p>Doctoral Candidate in Public Administration and Government, Fundação Getulio Vargas (FGV) </p>
       <div className='links'>
         <a href="./#bio">Bio</a>
         <a href="./#contact">Contact</a>
-        <a href="./#contact2">Learning</a>
+        <a href="./#working-papers">Working Papers</a>
+        <a href="./#work-in-progress">Work in Progress</a>
+        <a href="./#publications">Publications</a>        
+        <a href="./#contact2">Learning</a>        
         <a href="#">Policy Repository</a>
-        <a href="#">Policy Work</a>
-        <a href="./#publications">Publications</a>
-        <a href="#">Working Papers</a>
-        <a href="#">Work in Progress</a>
-      </div>
+        </div>
     </div>
   );
 };

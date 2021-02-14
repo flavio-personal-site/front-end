@@ -1,6 +1,7 @@
 #title h2 {
   color:black;
-  line-height: 1.1;
+  line-height: 1;
   margin-top: 0;
   font-size: 1.5em;
+  font-family: "Noto Sans", "Helvetica Neue", Helvetica;
 }

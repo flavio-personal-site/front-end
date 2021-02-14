@@ -7,18 +7,19 @@ const WorkingPapers = () => {
   return (
     <div id="working-papers">
       <Title> Working Papers</Title>
-      <p>Artificial Intelligence, Teacher Tasks and Individualized Pedagogy (with Bruno Ferman and Lycia Lima)</p>
+      <a href='src/pdf/ferman_lima_riva__AWE_paper_02152021.pdf' target="blank"><span>Artificial Intelligence, Teacher Tasks and Individualized Pedagogy</span></a>
+      <p>(with <a href='https://sites.google.com/site/brunoferman/home'>Bruno Ferman</a> and Lycia Lima)</p>
       <p>
         <a onClick={() => setAbstractIsVisible(!abstractIsVisible)}>Abstract{abstractIsVisible ? ': ' : " (click to expand)"}</a>
-        {abstractIsVisible ?  "Using state-of-the-art technology, we document that adults in Chennai sleep only 5.5 hours per night on average despite spending 8 hours in bed. Their sleep is highly interrupted, with sleep efficiency---sleep per time in bed---comparable to those with disorders such as sleep apnea or insomnia. A randomized three-week treatment providing information, encouragement, and improvements to home sleep environments increased sleep duration by 27 minutes per night but came at the cost of more time in bed. Contrary to expert predictions, increased night sleep had no detectable effects on cognition, productivity, decision-making or well-being, and led to small decreases in labor supply. Yet, increased sleep can have benefits in this setting: short afternoon naps at the workplace improved an overall index of outcomes by 0.12 standard deviations, with significant increases in productivity, psychological well-being, and cognitive function, but less time available for work." : ''}
+        {abstractIsVisible ?  "This paper investigates how educational technologies that use different combinations of artificial and human intelligence are incorporated into classroom instruction, and how they ultimately affect learning. We conducted a field experiment to study two technologies that allow teachers to outsource grading and feedback tasks on writing practices of high school seniors. The first technology is a fully automated evaluation system that provides instantaneous scores and feedback. The second one uses human graders as an additional resource to enhance grading and feedback quality in aspects in which the automated system arguably falls short. Both technologies significantly improved students' essay scores in a large college admission exam, and the addition of human graders did not improve effectiveness in spite of increasing perceived feedback quality. Both technologies also similarly helped teachers engage more frequently on personal discussions on essay quality with their students. Taken together, these results indicate that teachers' task composition shifted toward nonroutine activities and this helped circumvent some of the limitations of artificial intelligence. More generally, our results illustrate how the most recent wave of technological change may relocate labor to analytical and interactive tasks that still remain a challenge to automation." : ''}
       </p>
-      <p>AEA Registration</p>
-      <a href='#'>Full Pre-analysis Plan (pdf)</a>
+      <p><a href='https://www.socialscienceregistry.org/trials/3729/history/52390'>AEA Registration</a></p>
+      <p></p>
       <p>
         <span>Media Coverage: </span>
-        <a href="">Nexo I</a>,{' '}
-        <a href="">Nexo II</a>,{' '}
-        <a href="">Headline</a>{' '}
+        <a href='https://www.nexojornal.com.br/colunistas/2021/O-uso-de-intelig%C3%AAncia-artificial-na-prepara%C3%A7%C3%A3o-para-o-Enem'>Nexo I (BR)</a>,{' '}
+        <a href="">Nexo II (BR) </a>,{' '}
+        <a href="">Headline (BR)</a>{' '}
       </p>
     </div>
   )

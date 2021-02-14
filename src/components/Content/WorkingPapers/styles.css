@@ -1,10 +1,18 @@
 #working-papers a {
   text-transform: none;
   color: #267cb9;
+  text-decoration: none;
   cursor: pointer; 
 }
 
-#working-papers p span{
+#working-papers p span {
   font-weight: bold;
   color: black;
+}
+
+#working-papers a span {
+  font-weight: bold;
+  color: #267cb9;
+  font-weight: 600;
+  font-size: 16px;
 }
