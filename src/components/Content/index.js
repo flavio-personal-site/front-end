@@ -11,6 +11,7 @@ import './styles.css';
 const Content = () => {
   return (
     <div className="content-container">
+      {window.innerWidth < 768 ? <Divider /> : ""}
       <Bio />
       <Divider />
       <Contact />

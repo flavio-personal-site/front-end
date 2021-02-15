@@ -7,7 +7,6 @@ const Menu = () => {
     <header className="menu-container">
       <h1>Flavio Riva</h1>
       <p>Doctoral Candidate in Public Administration and Government, Fundação Getulio Vargas (FGV) </p>
-      <img src={personal} alt="Personal" />
       <div className='links'>
         <a href="./#bio">Bio</a>
         <a href="./#contact">Contact</a>
@@ -16,6 +15,7 @@ const Menu = () => {
         <a href="./#learning">Learning</a>
         <a href="./#publications">Publications</a>
       </div>
+      <img src={personal} alt="Personal" />
     </header>
   );
 };
