@@ -5,8 +5,6 @@ import Divider from '../common/Divider';
 import WorkingPapers from './WorkingPapers';
 import WorkInProgress from './WorkInProgress';
 import Publications from './Publications';
-import Learning from './WorkInProgress';
-
 
 import './styles.css';
 

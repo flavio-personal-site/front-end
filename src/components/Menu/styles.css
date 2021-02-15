@@ -1,7 +1,19 @@
 .menu-container {
-  width: 250px;
+  width: 100%;
   font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   flex-direction: column;
+  margin-bottom: 30px;
+  height: 570px;
+}
+
+@media(min-width: 768px){
+  .menu-container{
+    width: 330px;
+    margin-left: 20px;
+    position: sticky;
+    position: -webkit-sticky;
+    top: 50px;
+  }
 }
 
 .menu-container h1 {
@@ -12,7 +24,7 @@
 }
 
 .menu-container p {
-  margin: 0 0 60px;
+  margin: 0 0 20px;
   color: #727272;
   font-weight: 400;
 }
@@ -25,7 +37,7 @@
 .menu-container .links a {
   color: #267cb9;
   text-decoration: none;
-  margin: 0 0 10px;
+  margin: 0 0 7px;
 }
 
 .menu-container .links a:hover {
@@ -33,7 +45,7 @@
 }
 
 .menu-container img {
-  width: 100%;
+  width: 90%;
   height: auto;
-  margin-bottom: 40px;
+  margin-bottom: 20px;
 }
