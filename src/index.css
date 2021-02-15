@@ -11,7 +11,16 @@ body {
   color: #727272;
   font-weight: 400;
 }
+
+*{
+  font-family: 'Noto Sans', "Helvetica Neue", Helvetica, Arial, sans-serif;;
+}
+
 #root {
   display: flex;
   justify-content: center;
+}
+
+p{
+  margin: 0 0 20px;
 }

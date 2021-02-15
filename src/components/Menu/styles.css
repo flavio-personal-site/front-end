@@ -4,20 +4,21 @@
   flex-direction: column;
   margin-bottom: 30px;
   height: 570px;
+  -webkit-font-smoothing: subpixel-antialiased;
 }
 
 @media(min-width: 768px){
   .menu-container{
-    width: 330px;
-    margin-left: 20px;
+    width: 270px;
+    margin: 0 70px 0 20px ;
     position: sticky;
     position: -webkit-sticky;
-    top: 50px;
+    top: 10px;
   }
 }
 
 .menu-container h1 {
-  font-size: 24px;
+  font-size: 28px;
   font-weight: 600;
   color: #333;
   margin-top: 0;
@@ -45,7 +46,7 @@
 }
 
 .menu-container img {
-  width: 90%;
+  width: 100%;
   height: auto;
   margin-bottom: 20px;
 }

@@ -6,12 +6,12 @@
 }
 
 #working-papers p span {
-  font-weight: bold;
-  color: black;
+  font-weight: 700;
+  color: #222;
 }
 
 #working-papers a span {
-  font-weight: bold;
+  font-weight: 700;
   color: #267cb9;
   font-weight: 600;
   font-size: 16px;
@@ -28,4 +28,9 @@
   font-weight: 400;
   text-decoration: none;
   color: #267cb9;
+}
+
+#working-papers img{
+  width: 100%;
+
 }

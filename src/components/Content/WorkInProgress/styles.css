@@ -1,13 +1,5 @@
-#work-in-progress a {
-    text-transform: none;
-    color: #267cb9;
-    cursor: pointer; 
-  }
-  
-  #work-in-progress span {
-    font-weight: 600;
-    font-size: 16px;
-    color: black;
-  }
-  
-  
+#work-in-progress span {
+  font-weight: 600;
+  font-size: 16px;
+  color: #222;
+}

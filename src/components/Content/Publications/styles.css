@@ -1,28 +1,27 @@
 #publications a {
-    text-transform: none;
-    color: #267cb9;
-    text-decoration: none;
-    cursor: pointer; 
-  }
-  
-  
-  #publications p span {
-    font-weight: bold;
-    color: black;
-  }
+  text-transform: none;
+  color: #267cb9;
+  text-decoration: none;
+  cursor: pointer;
+}
 
-  
-  #publications a span {
-    font-weight: bold;
-    color: #267cb9;
-    font-weight: 600;
-    font-size: 16px;
-  }
+#publications p span {
+  font-weight: 700;
+  color: #222;
+}
 
+#publications a span {
+  font-weight: bold;
+  color: #267cb9;
+  font-weight: 600;
+  font-size: 16px;
+}
 
-  #publications div p {
-    font-style: italic;
-    color: #727272;
-  }
+#publications a span:hover {
+  color: #1e6394;
+}
 
-  
+#publications div p {
+  font-style: italic;
+  color: #727272;
+}
