@@ -9,7 +9,7 @@
 
 @media(min-width: 768px){
   .menu-container{
-    width: 270px;
+    width: 350px;
     margin: 0 70px 0 20px ;
     position: sticky;
     position: -webkit-sticky;
@@ -21,24 +21,25 @@
   font-size: 28px;
   font-weight: 600;
   color: #333;
-  margin-top: -10px;
+  margin-top: -12px;
 }
 
 .menu-container p {
   margin: 0 0 30px;
   color: #727272;
-  font-weight: 400;
+  font-weight: 500;
 }
 
 .menu-container .links {
   display: flex;
   flex-direction: column;
-  margin-bottom: 40px;
+  margin-bottom: 30px;
 }
 
 .menu-container .links a {
   color: #267cb9;
   text-decoration: none;
+  line-height: 1.2em;
   margin: 0 0 7px;
 }
 
@@ -49,5 +50,5 @@
 .menu-container img {
   width: 100%;
   height: auto;
-  margin-bottom: 20px;
+  margin-bottom: 10px;
 }

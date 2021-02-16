@@ -1,5 +1,4 @@
 #working-papers a {
-  text-transform: none;
   color: #267cb9;
   text-decoration: none;
   cursor: pointer; 
@@ -8,6 +7,10 @@
 #working-papers p span {
   font-weight: 700;
   color: #222;
+}
+
+#working-papers p {
+  margin-top:4px;
 }
 
 #working-papers a span {
@@ -29,3 +32,10 @@
   text-decoration: none;
   color: #267cb9;
 }
+
+ #working-papers div {
+  width: 100%;
+  line-height: 1em;
+  color: black;
+ }
+ 
