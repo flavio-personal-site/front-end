@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/site/static/css/main.79f8cff6.chunk.css",
-    "main.js": "/site/static/js/main.afbb1186.chunk.js",
-    "main.js.map": "/site/static/js/main.afbb1186.chunk.js.map",
+    "main.css": "/site/static/css/main.46b76922.chunk.css",
+    "main.js": "/site/static/js/main.3a40cbca.chunk.js",
+    "main.js.map": "/site/static/js/main.3a40cbca.chunk.js.map",
     "runtime-main.js": "/site/static/js/runtime-main.63f20e2b.js",
     "runtime-main.js.map": "/site/static/js/runtime-main.63f20e2b.js.map",
     "static/js/2.d1da91f4.chunk.js": "/site/static/js/2.d1da91f4.chunk.js",
     "static/js/2.d1da91f4.chunk.js.map": "/site/static/js/2.d1da91f4.chunk.js.map",
     "index.html": "/site/index.html",
-    "static/css/main.79f8cff6.chunk.css.map": "/site/static/css/main.79f8cff6.chunk.css.map",
+    "static/css/main.46b76922.chunk.css.map": "/site/static/css/main.46b76922.chunk.css.map",
     "static/js/2.d1da91f4.chunk.js.LICENSE.txt": "/site/static/js/2.d1da91f4.chunk.js.LICENSE.txt",
     "static/media/ferman_lima_riva__AWE_wpaper_0221.f3d2a47e.pdf": "/site/static/media/ferman_lima_riva__AWE_wpaper_0221.f3d2a47e.pdf",
     "static/media/ferman_lima_riva__AWE_wpaper_0221_fig1.4a824068.png": "/site/static/media/ferman_lima_riva__AWE_wpaper_0221_fig1.4a824068.png",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.63f20e2b.js",
     "static/js/2.d1da91f4.chunk.js",
-    "static/css/main.79f8cff6.chunk.css",
-    "static/js/main.afbb1186.chunk.js"
+    "static/css/main.46b76922.chunk.css",
+    "static/js/main.3a40cbca.chunk.js"
   ]
 }
