@@ -18,7 +18,7 @@
 }
 
 #working-papers img {
- width: 60%;
+ width: 90%;
  margin-top:40px; 
 }
 
@@ -28,9 +28,4 @@
   font-weight: 400;
   text-decoration: none;
   color: #267cb9;
-}
-
-#working-papers img{
-  width: 100%;
-
 }

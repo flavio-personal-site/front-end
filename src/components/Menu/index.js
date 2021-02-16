@@ -12,8 +12,9 @@ const Menu = () => {
         <a href="./#contact">Contact</a>
         <a href="./#working-papers">Working Papers</a>
         <a href="./#work-in-progress">Work in Progress</a>
-        <a href="./#learning">Learning</a>
         <a href="./#publications">Publications</a>
+        <a href="./#learning">Learning</a>       
+        <a href="./#nice-figures-tables">Nice Figures and Tables</a>       
       </div>
       <img src={personal} alt="Personal" />
     </header>

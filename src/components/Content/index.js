@@ -4,8 +4,9 @@ import Contact from './Contact';
 import Divider from '../common/Divider';
 import WorkingPapers from './WorkingPapers';
 import WorkInProgress from './WorkInProgress';
+import Learning from './Learning';
 import Publications from './Publications';
-
+import NiceFiguresTables from './NiceFiguresTables';
 import './styles.css';
 
 const Content = () => {
@@ -20,7 +21,9 @@ const Content = () => {
       <Divider />
       <WorkInProgress />
       <Divider />
-      <Publications />
+      <Publications />     
+      <Divider />
+      <NiceFiguresTables />
     </div>
   )
 }
