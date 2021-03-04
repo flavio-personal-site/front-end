@@ -1,25 +1,29 @@
 {
   "files": {
-    "main.css": "/site/static/css/main.d46e8caa.chunk.css",
-    "main.js": "/site/static/js/main.3a40cbca.chunk.js",
-    "main.js.map": "/site/static/js/main.3a40cbca.chunk.js.map",
+    "main.css": "/site/static/css/main.25cbe98e.chunk.css",
+    "main.js": "/site/static/js/main.eaece274.chunk.js",
+    "main.js.map": "/site/static/js/main.eaece274.chunk.js.map",
     "runtime-main.js": "/site/static/js/runtime-main.63f20e2b.js",
     "runtime-main.js.map": "/site/static/js/runtime-main.63f20e2b.js.map",
     "static/js/2.d1da91f4.chunk.js": "/site/static/js/2.d1da91f4.chunk.js",
     "static/js/2.d1da91f4.chunk.js.map": "/site/static/js/2.d1da91f4.chunk.js.map",
     "index.html": "/site/index.html",
-    "static/css/main.d46e8caa.chunk.css.map": "/site/static/css/main.d46e8caa.chunk.css.map",
+    "static/css/main.25cbe98e.chunk.css.map": "/site/static/css/main.25cbe98e.chunk.css.map",
     "static/js/2.d1da91f4.chunk.js.LICENSE.txt": "/site/static/js/2.d1da91f4.chunk.js.LICENSE.txt",
+    "static/media/class1.28b2b86f.PNG": "/site/static/media/class1.28b2b86f.PNG",
+    "static/media/class2.f79430a9.PNG": "/site/static/media/class2.f79430a9.PNG",
     "static/media/ferman_lima_riva__AWE_wpaper_0221.f3d2a47e.pdf": "/site/static/media/ferman_lima_riva__AWE_wpaper_0221.f3d2a47e.pdf",
     "static/media/ferman_lima_riva__AWE_wpaper_0221_fig1.4a824068.png": "/site/static/media/ferman_lima_riva__AWE_wpaper_0221_fig1.4a824068.png",
-    "static/media/mita_map.191d6888.PNG": "/site/static/media/mita_map.191d6888.PNG",
+    "static/media/ferman_lima_riva__AWE_wpaper_0221_fig2.3aaacffb.PNG": "/site/static/media/ferman_lima_riva__AWE_wpaper_0221_fig2.3aaacffb.PNG",
+    "static/media/mita_map_1.fe3a399c.PNG": "/site/static/media/mita_map_1.fe3a399c.PNG",
+    "static/media/mita_map_2.185eb320.PNG": "/site/static/media/mita_map_2.185eb320.PNG",
     "static/media/personal.c30e26a3.jpg": "/site/static/media/personal.c30e26a3.jpg",
     "static/media/vita_en.1563c34e.pdf": "/site/static/media/vita_en.1563c34e.pdf"
   },
   "entrypoints": [
     "static/js/runtime-main.63f20e2b.js",
     "static/js/2.d1da91f4.chunk.js",
-    "static/css/main.d46e8caa.chunk.css",
-    "static/js/main.3a40cbca.chunk.js"
+    "static/css/main.25cbe98e.chunk.css",
+    "static/js/main.eaece274.chunk.js"
   ]
 }
