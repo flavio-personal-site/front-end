@@ -1,35 +1,32 @@
 {
   "files": {
-    "main.css": "/site/static/css/main.a2a1474e.chunk.css",
-    "main.js": "/site/static/js/main.189a5f4d.chunk.js",
-    "main.js.map": "/site/static/js/main.189a5f4d.chunk.js.map",
+    "main.css": "/site/static/css/main.c01b8407.chunk.css",
+    "main.js": "/site/static/js/main.f7be6c9d.chunk.js",
+    "main.js.map": "/site/static/js/main.f7be6c9d.chunk.js.map",
     "runtime-main.js": "/site/static/js/runtime-main.63f20e2b.js",
     "runtime-main.js.map": "/site/static/js/runtime-main.63f20e2b.js.map",
-    "static/js/2.d1da91f4.chunk.js": "/site/static/js/2.d1da91f4.chunk.js",
-    "static/js/2.d1da91f4.chunk.js.map": "/site/static/js/2.d1da91f4.chunk.js.map",
+    "static/js/2.f36dd2bb.chunk.js": "/site/static/js/2.f36dd2bb.chunk.js",
+    "static/js/2.f36dd2bb.chunk.js.map": "/site/static/js/2.f36dd2bb.chunk.js.map",
     "index.html": "/site/index.html",
-    "static/css/main.a2a1474e.chunk.css.map": "/site/static/css/main.a2a1474e.chunk.css.map",
-    "static/js/2.d1da91f4.chunk.js.LICENSE.txt": "/site/static/js/2.d1da91f4.chunk.js.LICENSE.txt",
+    "static/css/main.c01b8407.chunk.css.map": "/site/static/css/main.c01b8407.chunk.css.map",
+    "static/js/2.f36dd2bb.chunk.js.LICENSE.txt": "/site/static/js/2.f36dd2bb.chunk.js.LICENSE.txt",
     "static/media/EDUC_CS_Pathways (en).8cec9866.pdf": "/site/static/media/EDUC_CS_Pathways (en).8cec9866.pdf",
     "static/media/LM&W_CS_JeA (en).adc34f55.pdf": "/site/static/media/LM&W_CS_JeA (en).adc34f55.pdf",
     "static/media/P&G_CS_EVT (en).19eb42e9.pdf": "/site/static/media/P&G_CS_EVT (en).19eb42e9.pdf",
     "static/media/ai_photo.a971b05f.PNG": "/site/static/media/ai_photo.a971b05f.PNG",
     "static/media/ciie_rubin_selection.85135252.pdf": "/site/static/media/ciie_rubin_selection.85135252.pdf",
-    "static/media/class1.28b2b86f.PNG": "/site/static/media/class1.28b2b86f.PNG",
-    "static/media/class2.f79430a9.PNG": "/site/static/media/class2.f79430a9.PNG",
+    "static/media/ciie_rubin_selection_annbib.6e05497e.pdf": "/site/static/media/ciie_rubin_selection_annbib.6e05497e.pdf",
+    "static/media/ehcf_teachers_annbib.7f0b0685.pdf": "/site/static/media/ehcf_teachers_annbib.7f0b0685.pdf",
     "static/media/ferman_lima_riva__AWE_wpaper_0221.f3d2a47e.pdf": "/site/static/media/ferman_lima_riva__AWE_wpaper_0221.f3d2a47e.pdf",
     "static/media/ferman_lima_riva__AWE_wpaper_0221_fig1.4a824068.png": "/site/static/media/ferman_lima_riva__AWE_wpaper_0221_fig1.4a824068.png",
     "static/media/ferman_lima_riva__AWE_wpaper_0221_fig2.3aaacffb.PNG": "/site/static/media/ferman_lima_riva__AWE_wpaper_0221_fig2.3aaacffb.PNG",
-    "static/media/mita_map_1.fe3a399c.PNG": "/site/static/media/mita_map_1.fe3a399c.PNG",
-    "static/media/mita_map_2.185eb320.PNG": "/site/static/media/mita_map_2.185eb320.PNG",
     "static/media/personal.c30e26a3.jpg": "/site/static/media/personal.c30e26a3.jpg",
-    "static/media/riva__weber_final.00a988dc.pdf": "/site/static/media/riva__weber_final.00a988dc.pdf",
-    "static/media/vita_en.1563c34e.pdf": "/site/static/media/vita_en.1563c34e.pdf"
+    "static/media/riva__weber_final.00a988dc.pdf": "/site/static/media/riva__weber_final.00a988dc.pdf"
   },
   "entrypoints": [
     "static/js/runtime-main.63f20e2b.js",
-    "static/js/2.d1da91f4.chunk.js",
-    "static/css/main.a2a1474e.chunk.css",
-    "static/js/main.189a5f4d.chunk.js"
+    "static/js/2.f36dd2bb.chunk.js",
+    "static/css/main.c01b8407.chunk.css",
+    "static/js/main.f7be6c9d.chunk.js"
   ]
 }
