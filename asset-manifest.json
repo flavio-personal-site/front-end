@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/site/static/css/main.f5e7154b.chunk.css",
-    "main.js": "/site/static/js/main.b0facc5c.chunk.js",
-    "main.js.map": "/site/static/js/main.b0facc5c.chunk.js.map",
+    "main.css": "/site/static/css/main.e0de6740.chunk.css",
+    "main.js": "/site/static/js/main.cd949fb3.chunk.js",
+    "main.js.map": "/site/static/js/main.cd949fb3.chunk.js.map",
     "runtime-main.js": "/site/static/js/runtime-main.63f20e2b.js",
     "runtime-main.js.map": "/site/static/js/runtime-main.63f20e2b.js.map",
     "static/js/2.f36dd2bb.chunk.js": "/site/static/js/2.f36dd2bb.chunk.js",
     "static/js/2.f36dd2bb.chunk.js.map": "/site/static/js/2.f36dd2bb.chunk.js.map",
     "index.html": "/site/index.html",
-    "static/css/main.f5e7154b.chunk.css.map": "/site/static/css/main.f5e7154b.chunk.css.map",
+    "static/css/main.e0de6740.chunk.css.map": "/site/static/css/main.e0de6740.chunk.css.map",
     "static/js/2.f36dd2bb.chunk.js.LICENSE.txt": "/site/static/js/2.f36dd2bb.chunk.js.LICENSE.txt",
     "static/media/EDUC_CS_Pathways (en).8cec9866.pdf": "/site/static/media/EDUC_CS_Pathways (en).8cec9866.pdf",
     "static/media/LM&W_CS_JeA (en).adc34f55.pdf": "/site/static/media/LM&W_CS_JeA (en).adc34f55.pdf",
@@ -19,6 +19,7 @@
     "static/media/class1.28b2b86f.PNG": "/site/static/media/class1.28b2b86f.PNG",
     "static/media/class2.f79430a9.PNG": "/site/static/media/class2.f79430a9.PNG",
     "static/media/ehcf_teachers_annbib.7f0b0685.pdf": "/site/static/media/ehcf_teachers_annbib.7f0b0685.pdf",
+    "static/media/esquisse.6d79646c.doc": "/site/static/media/esquisse.6d79646c.doc",
     "static/media/ferman_lima_riva__AWE_pap.c7b69a08.pdf": "/site/static/media/ferman_lima_riva__AWE_pap.c7b69a08.pdf",
     "static/media/ferman_lima_riva__AWE_wpaper_0221.f3d2a47e.pdf": "/site/static/media/ferman_lima_riva__AWE_wpaper_0221.f3d2a47e.pdf",
     "static/media/ferman_lima_riva__AWE_wpaper_0221_fig1.4a824068.png": "/site/static/media/ferman_lima_riva__AWE_wpaper_0221_fig1.4a824068.png",
@@ -31,7 +32,7 @@
   "entrypoints": [
     "static/js/runtime-main.63f20e2b.js",
     "static/js/2.f36dd2bb.chunk.js",
-    "static/css/main.f5e7154b.chunk.css",
-    "static/js/main.b0facc5c.chunk.js"
+    "static/css/main.e0de6740.chunk.css",
+    "static/js/main.cd949fb3.chunk.js"
   ]
 }
