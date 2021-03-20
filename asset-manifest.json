@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/site/static/css/main.a847c551.chunk.css",
-    "main.js": "/site/static/js/main.43468582.chunk.js",
-    "main.js.map": "/site/static/js/main.43468582.chunk.js.map",
+    "main.js": "/site/static/js/main.d8396a08.chunk.js",
+    "main.js.map": "/site/static/js/main.d8396a08.chunk.js.map",
     "runtime-main.js": "/site/static/js/runtime-main.63f20e2b.js",
     "runtime-main.js.map": "/site/static/js/runtime-main.63f20e2b.js.map",
     "static/js/2.f36dd2bb.chunk.js": "/site/static/js/2.f36dd2bb.chunk.js",
@@ -22,6 +22,8 @@
     "static/media/ciie_rubin_selection_annbib.6e05497e.pdf": "/site/static/media/ciie_rubin_selection_annbib.6e05497e.pdf",
     "static/media/class2.f79430a9.PNG": "/site/static/media/class2.f79430a9.PNG",
     "static/media/cons1.2fe2f77c.PNG": "/site/static/media/cons1.2fe2f77c.PNG",
+    "static/media/droughts1.36c211ea.PNG": "/site/static/media/droughts1.36c211ea.PNG",
+    "static/media/droughts2.20ebb2a3.PNG": "/site/static/media/droughts2.20ebb2a3.PNG",
     "static/media/ehcf_teachers_annbib.7f0b0685.pdf": "/site/static/media/ehcf_teachers_annbib.7f0b0685.pdf",
     "static/media/esquisse.6d79646c.doc": "/site/static/media/esquisse.6d79646c.doc",
     "static/media/evt1.7af352a9.PNG": "/site/static/media/evt1.7af352a9.PNG",
@@ -41,6 +43,6 @@
     "static/js/runtime-main.63f20e2b.js",
     "static/js/2.f36dd2bb.chunk.js",
     "static/css/main.a847c551.chunk.css",
-    "static/js/main.43468582.chunk.js"
+    "static/js/main.d8396a08.chunk.js"
   ]
 }
