@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/site/static/css/main.d1f3ff99.chunk.css",
-    "main.js": "/site/static/js/main.988e41fd.chunk.js",
-    "main.js.map": "/site/static/js/main.988e41fd.chunk.js.map",
+    "main.css": "/site/static/css/main.5bd85cae.chunk.css",
+    "main.js": "/site/static/js/main.b0101b44.chunk.js",
+    "main.js.map": "/site/static/js/main.b0101b44.chunk.js.map",
     "runtime-main.js": "/site/static/js/runtime-main.63f20e2b.js",
     "runtime-main.js.map": "/site/static/js/runtime-main.63f20e2b.js.map",
     "static/js/2.f36dd2bb.chunk.js": "/site/static/js/2.f36dd2bb.chunk.js",
     "static/js/2.f36dd2bb.chunk.js.map": "/site/static/js/2.f36dd2bb.chunk.js.map",
     "index.html": "/site/index.html",
-    "static/css/main.d1f3ff99.chunk.css.map": "/site/static/css/main.d1f3ff99.chunk.css.map",
+    "static/css/main.5bd85cae.chunk.css.map": "/site/static/css/main.5bd85cae.chunk.css.map",
     "static/js/2.f36dd2bb.chunk.js.LICENSE.txt": "/site/static/js/2.f36dd2bb.chunk.js.LICENSE.txt",
     "static/media/EDUC_CS_Pathways (en).8cec9866.pdf": "/site/static/media/EDUC_CS_Pathways (en).8cec9866.pdf",
     "static/media/LM&W_CS_JeA (en).adc34f55.pdf": "/site/static/media/LM&W_CS_JeA (en).adc34f55.pdf",
@@ -31,6 +31,7 @@
     "static/media/ferman_lima_riva__AWE_wpaper_0221.f3d2a47e.pdf": "/site/static/media/ferman_lima_riva__AWE_wpaper_0221.f3d2a47e.pdf",
     "static/media/ferman_lima_riva__AWE_wpaper_0221_fig1.4a824068.png": "/site/static/media/ferman_lima_riva__AWE_wpaper_0221_fig1.4a824068.png",
     "static/media/ferman_lima_riva__AWE_wpaper_0221_fig2.3aaacffb.PNG": "/site/static/media/ferman_lima_riva__AWE_wpaper_0221_fig2.3aaacffb.PNG",
+    "static/media/ferman_lima_riva__AWE_wpaper_0221_fig3.a7b8e049.png": "/site/static/media/ferman_lima_riva__AWE_wpaper_0221_fig3.a7b8e049.png",
     "static/media/mita_map_1.fe3a399c.PNG": "/site/static/media/mita_map_1.fe3a399c.PNG",
     "static/media/mita_map_2.185eb320.PNG": "/site/static/media/mita_map_2.185eb320.PNG",
     "static/media/personal.c30e26a3.jpg": "/site/static/media/personal.c30e26a3.jpg",
@@ -39,7 +40,7 @@
   "entrypoints": [
     "static/js/runtime-main.63f20e2b.js",
     "static/js/2.f36dd2bb.chunk.js",
-    "static/css/main.d1f3ff99.chunk.css",
-    "static/js/main.988e41fd.chunk.js"
+    "static/css/main.5bd85cae.chunk.css",
+    "static/js/main.b0101b44.chunk.js"
   ]
 }
