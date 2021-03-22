@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/site/static/css/main.ae62dc0e.chunk.css",
-    "main.js": "/site/static/js/main.68f26c08.chunk.js",
-    "main.js.map": "/site/static/js/main.68f26c08.chunk.js.map",
+    "main.js": "/site/static/js/main.7dde8c00.chunk.js",
+    "main.js.map": "/site/static/js/main.7dde8c00.chunk.js.map",
     "runtime-main.js": "/site/static/js/runtime-main.63f20e2b.js",
     "runtime-main.js.map": "/site/static/js/runtime-main.63f20e2b.js.map",
     "static/js/2.f36dd2bb.chunk.js": "/site/static/js/2.f36dd2bb.chunk.js",
@@ -18,7 +18,7 @@
     "static/media/ai_photo.a971b05f.PNG": "/site/static/media/ai_photo.a971b05f.PNG",
     "static/media/audits1.73a882db.PNG": "/site/static/media/audits1.73a882db.PNG",
     "static/media/audits2.105633c0.PNG": "/site/static/media/audits2.105633c0.PNG",
-    "static/media/audits3.d3055634.PNG": "/site/static/media/audits3.d3055634.PNG",
+    "static/media/audits3.f1b411bb.PNG": "/site/static/media/audits3.f1b411bb.PNG",
     "static/media/caps1.6284fdfd.PNG": "/site/static/media/caps1.6284fdfd.PNG",
     "static/media/caps2.649661dc.PNG": "/site/static/media/caps2.649661dc.PNG",
     "static/media/caps3.872b8a9b.PNG": "/site/static/media/caps3.872b8a9b.PNG",
@@ -26,6 +26,9 @@
     "static/media/ciie_rubin_selection.85135252.pdf": "/site/static/media/ciie_rubin_selection.85135252.pdf",
     "static/media/ciie_rubin_selection_annbib.6e05497e.pdf": "/site/static/media/ciie_rubin_selection_annbib.6e05497e.pdf",
     "static/media/class2.f79430a9.PNG": "/site/static/media/class2.f79430a9.PNG",
+    "static/media/cog1.57f98c68.PNG": "/site/static/media/cog1.57f98c68.PNG",
+    "static/media/cog2.f0bb6fda.PNG": "/site/static/media/cog2.f0bb6fda.PNG",
+    "static/media/cog3.68ad4698.PNG": "/site/static/media/cog3.68ad4698.PNG",
     "static/media/cons1.2fe2f77c.PNG": "/site/static/media/cons1.2fe2f77c.PNG",
     "static/media/droughts1.36c211ea.PNG": "/site/static/media/droughts1.36c211ea.PNG",
     "static/media/droughts2.20ebb2a3.PNG": "/site/static/media/droughts2.20ebb2a3.PNG",
@@ -45,6 +48,12 @@
     "static/media/mita_map_1.fe3a399c.PNG": "/site/static/media/mita_map_1.fe3a399c.PNG",
     "static/media/mita_map_2.185eb320.PNG": "/site/static/media/mita_map_2.185eb320.PNG",
     "static/media/personal.c30e26a3.jpg": "/site/static/media/personal.c30e26a3.jpg",
+    "static/media/pmm1.98a4a0c8.PNG": "/site/static/media/pmm1.98a4a0c8.PNG",
+    "static/media/pmm2.591f69ed.PNG": "/site/static/media/pmm2.591f69ed.PNG",
+    "static/media/pmm3.f9027a7a.PNG": "/site/static/media/pmm3.f9027a7a.PNG",
+    "static/media/pmm4.d8c437df.PNG": "/site/static/media/pmm4.d8c437df.PNG",
+    "static/media/pmm5.f1d44c1f.PNG": "/site/static/media/pmm5.f1d44c1f.PNG",
+    "static/media/pmm6.6b637849.PNG": "/site/static/media/pmm6.6b637849.PNG",
     "static/media/psf0.812040cd.PNG": "/site/static/media/psf0.812040cd.PNG",
     "static/media/psf1.aa726b7d.PNG": "/site/static/media/psf1.aa726b7d.PNG",
     "static/media/psf2.599fb04d.PNG": "/site/static/media/psf2.599fb04d.PNG",
@@ -55,6 +64,6 @@
     "static/js/runtime-main.63f20e2b.js",
     "static/js/2.f36dd2bb.chunk.js",
     "static/css/main.ae62dc0e.chunk.css",
-    "static/js/main.68f26c08.chunk.js"
+    "static/js/main.7dde8c00.chunk.js"
   ]
 }
