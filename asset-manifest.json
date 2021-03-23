@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/site/static/css/main.f1f32806.chunk.css",
-    "main.js": "/site/static/js/main.859fc57d.chunk.js",
-    "main.js.map": "/site/static/js/main.859fc57d.chunk.js.map",
+    "main.js": "/site/static/js/main.c18f55c2.chunk.js",
+    "main.js.map": "/site/static/js/main.c18f55c2.chunk.js.map",
     "runtime-main.js": "/site/static/js/runtime-main.63f20e2b.js",
     "runtime-main.js.map": "/site/static/js/runtime-main.63f20e2b.js.map",
     "static/js/2.f36dd2bb.chunk.js": "/site/static/js/2.f36dd2bb.chunk.js",
@@ -57,6 +57,10 @@
     "static/media/obm2.34f2ce9a.PNG": "/site/static/media/obm2.34f2ce9a.PNG",
     "static/media/obm3.ccb006f8.PNG": "/site/static/media/obm3.ccb006f8.PNG",
     "static/media/obm4.53a9a5bd.PNG": "/site/static/media/obm4.53a9a5bd.PNG",
+    "static/media/pedez0.da3e81a3.png": "/site/static/media/pedez0.da3e81a3.png",
+    "static/media/pedez1.260d33a6.PNG": "/site/static/media/pedez1.260d33a6.PNG",
+    "static/media/pedez2.efe7fc05.PNG": "/site/static/media/pedez2.efe7fc05.PNG",
+    "static/media/pedez3.24bd793e.PNG": "/site/static/media/pedez3.24bd793e.PNG",
     "static/media/personal.c30e26a3.jpg": "/site/static/media/personal.c30e26a3.jpg",
     "static/media/pmm0.c12615f1.jpg": "/site/static/media/pmm0.c12615f1.jpg",
     "static/media/pmm1.98a4a0c8.PNG": "/site/static/media/pmm1.98a4a0c8.PNG",
@@ -82,6 +86,6 @@
     "static/js/runtime-main.63f20e2b.js",
     "static/js/2.f36dd2bb.chunk.js",
     "static/css/main.f1f32806.chunk.css",
-    "static/js/main.859fc57d.chunk.js"
+    "static/js/main.c18f55c2.chunk.js"
   ]
 }
